@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ML-Agents/Examples/Golf/locus1.unity
+    guid: 8605495296c8dff4d939ef8cf37a9ec5
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Golf/locus2.unity
+    guid: ecc1209e5aea4d941a7752c5671a04b6
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Golf/locus3.unity
+    guid: 40526edc17c006e4bac6016d11ad951b
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Golf/locus4.unity
+    guid: 604497112ecaaac4a971037b74b79091
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Golf/locus5.unity
+    guid: 2bc15d6e101517a4bb12a852f429f8ad
+  m_configObjects: {}
